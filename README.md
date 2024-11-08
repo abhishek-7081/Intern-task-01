@@ -29,9 +29,3 @@ This repository contains **Intern Task 01**: a landing page for a gym website. T
 - **faq.html**: The FAQ page providing answers to commonly asked questions.
 - **styles.css**: Custom styling for the project.
 - **app.js**: JavaScript to handle any interactive elements or form validation (if applicable).
-
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/username/intern-task-01.git
